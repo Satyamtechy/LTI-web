@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header image */
+
+.title_pic{
+    position: relative;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.titleImage{
+    width: 100%;
+    height: 60vh;
+}
+.titleName{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:40px;
+}
+.titleName1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:40px;
+}
+
+/* 1st Image  */
+
+.backColor1{
+    background-color: #FFB100;
+    margin-bottom: 5px;
+}
+.similar_pic{
+    position: relative;
+    text-align: center;
+}
+
+.favFoodImage1{
+    width: 50%;
+    height: 50%;
+    border: 3px solid white;
+    padding: 5px 5px 5px 5px;
+}
+.favFood1{
+    color: white;
+    font-size:20px;
+    padding: 20px 0px 20px 0px;
+}
+
+.foodDescription{
+    font-size:small;
+    color: white;
+
+}
+
+/* 2nd Image  */
+
+.backColor2{
+    background-color: #CB00CB;
+    margin-bottom: 5px;
+}
+.similar_pic{
+    position: relative;
+    text-align: center;
+}
+
+.favFoodImage2{
+    width: 50%;
+    height: 50%;
+    border: 3px solid white;
+    padding: 5px 5px 5px 5px;
+}
+.favFood2{
+    color: white;
+    font-size:20px;
+    padding: 20px 0px 20px 0px;
+}
+
+.foodDescription2{
+    font-size:small;
+    color: white;
+
+}
+
+/* 3rd Image  */
+
+.backColor3{
+    background-color: #00AAC7;
+}
+.similar_pic{
+    position: relative;
+    text-align: center;
+}
+
+.favFoodImage3{
+    width: 50%;
+    height: 50%;
+    border: 3px solid white;
+    padding: 5px 5px 5px 5px;
+}
+.favFood3{
+    color: white;
+    font-size:20px;
+    padding: 20px 0px 20px 0px;
+}
+
+.foodDescription3{
+    font-size:small;
+    color: white;
+
+}
